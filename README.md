@@ -221,10 +221,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Pranav Maheshwari**
-- **GitHub**: [@PRANAV0494](https://github.com/PRANAV0494)
-- **LinkedIn**: [Pranav Maheshwari](https://www.linkedin.com/in/pranav-maheshwari-b76894187/)
-- **Email**: pranavm494@gmail.com
+**RIYA BIShT**
+- **LinkedIn**: [Riya Bisht](https://www.linkedin.com/in/riya-bisht-930982312/)
+- **Email**: riyabisht1708@gmail.com
 
 ## 🙏 Acknowledgments
 
